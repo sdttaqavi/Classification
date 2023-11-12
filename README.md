@@ -1,5 +1,4 @@
 # Classification
-Introduction:Implementation
 The purpose of this project is to implement and compare the performance of three classification models:
 SVM, KNN, and Decision Tree.
 For implementation, a dataset has been considered with the goal of predicting individuals' income based on their features.
