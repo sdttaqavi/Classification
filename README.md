@@ -28,4 +28,3 @@ The purpose of this project is to implement and compare the performance of three
 - This project serves as an exploration of classification model performance and dataset analysis techniques.
 - Detailed documentation of implementation steps, model performance, and analysis findings will be provided in the project report.
 
-Feel free to reach out for any clarifications or additional information.
